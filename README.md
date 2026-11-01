@@ -2,11 +2,11 @@
 
 Python data analytics project analyzing user engagement, content performance, behavioral patterns, and sentiment dynamics across a dataset of 5,000 social media posts.
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project delivers a complete data science workflow executed in Jupyter Notebooks. The primary objective is to transform raw social media interaction data into actionable marketing insights by performing data cleaning, statistical modeling, feature engineering, and exploratory data visualization.
 
-📊 Dataset Highlights
+### 📊 Dataset Highlights
 
 Dataset File: social_media_engagement_5000.xlsx
 
@@ -22,7 +22,7 @@ engagement_score: Composite calculated score weighting user interactions.
 
 log_likes & log_impressions: Log-transformed continuous metrics to handle skewed distributions.
 
-🛠️ Key Tasks & Workflow
+### 🛠️ Key Tasks & Workflow
 
 Data Import & Setup: Imported raw dataset, validated non-null schema integrity, parsed datetime fields, and computed initial vector metrics using NumPy.
 
@@ -36,7 +36,7 @@ Data Visualization: Built multi-chart analytical panels using Matplotlib and Sea
 
 Data Export: Exported final feature-engineered dataset as social_media_engagement_cleaned.csv.
 
-💡 Key Insights Summary
+### 💡 Key Insights Summary
 
 Content Performance: Video and carousel post formats generate the highest cumulative engagement score by driving greater watch time and share volume.
 
@@ -46,7 +46,7 @@ Behavioral Patterns: Impression volumes peak during evening hours (6:00 PM – 9
 
 Sentiment Dynamics: Positive sentiment posts achieve the highest average engagement scores and virality. Neutral posts maintain consistent discussion volumes through informational inquiries.
 
-💻 Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 Language: Python 3.x
 
@@ -58,7 +58,7 @@ Data Visualization: Matplotlib, Seaborn
 
 File Outputs: CSV, DOCX
 
-🚀 How to Run
+### 🚀 How to Run
 
 Clone the repository:
 
