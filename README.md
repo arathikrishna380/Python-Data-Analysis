@@ -58,27 +58,8 @@ Data Visualization: Matplotlib, Seaborn
 
 File Outputs: CSV, DOCX
 
-### 🚀 How to Run
 
-Clone the repository:
-
-git clone https://github.com/your-username/social-media-engagement-analytics.git
-cd social-media-engagement-analytics
-
-
-Install dependencies:
-
-pip install pandas numpy matplotlib seaborn openpyxl
-
-
-Launch Notebook:
-
-jupyter notebook
-
-
-Run all cells sequentially to reproduce the analyses, visualizations, and CSV export.
-
-📄 Output Deliverables
+### 📄 Output Deliverables
 
 social_media_engagement_cleaned.csv — Final cleaned dataset with calculated metrics.
 
